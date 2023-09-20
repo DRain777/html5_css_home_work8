@@ -8,6 +8,6 @@
 
 2. Создать мобильную версию проекта
 
-# Посмотреть сайт[Сайт](https://drain777.github.io/html5_css_home_work8/)
+# Посмотреть сайт [Сайт](https://drain777.github.io/html5_css_home_work8/)
 
 # [Cкрин_мобильной_версии](https://github.com/DRain777/html5_css_home_work8/blob/algoritm/скрин_мобильная_версия.png)
